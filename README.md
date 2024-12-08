@@ -1,2 +1,0 @@
-# Duckdb_Project
- 
