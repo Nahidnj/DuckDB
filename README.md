@@ -38,18 +38,6 @@ Follow these steps to reproduce the benchmarks and explore the results:
    - [Run2012B_SingleMu_1000.parquet](https://zenodo.org/record/6505492/files/Run2012B_SingleMu_1000.parquet)
    - [Run2012B_SingleMu_4000.parquet](https://zenodo.org/record/6505492/files/Run2012B_SingleMu_4000.parquet)
 
-### Running the Benchmarks
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-link.git
-   cd your-repo-link
-   ```
-2. Run the benchmark script:
-   ```bash
-   python run_benchmarks.py
-   ```
-3. View the results in the generated report (`results.md` or `results.csv`).
-
 ---
 
 ## 📊 Results Overview
