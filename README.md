@@ -1,7 +1,3 @@
-Here's a stunning `README.md` file for your GitHub repository:
-
----
-
 # 🦆 Evaluating High-Energy Physics Data Queries Using DuckDB
 
 ![High-Energy Physics Banner](https://via.placeholder.com/1200x400?text=High-Energy+Physics+Benchmarks+with+DuckDB)
