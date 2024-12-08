@@ -1,0 +1,19 @@
+query_id,dataset,running_time (s),result_count
+Q1,Run2012B_SingleMu_1000.parquet,0.0048,1000
+Q2,Run2012B_SingleMu_1000.parquet,0.0018,1699
+Q3,Run2012B_SingleMu_1000.parquet,0.0031,680
+Q4,Run2012B_SingleMu_1000.parquet,0.0026,1000
+Q5,Run2012B_SingleMu_1000.parquet,0.0351,100000
+Q6a,Run2012B_SingleMu_1000.parquet,0.0118,1000
+Q6b,Run2012B_SingleMu_1000.parquet,0.0028,1
+Q7,Run2012B_SingleMu_1000.parquet,0.0605,1000
+Q8,Run2012B_SingleMu_1000.parquet,0.1742,200000
+Q1,Run2012B_SingleMu_4000.parquet,0.0027,4000
+Q2,Run2012B_SingleMu_4000.parquet,0.0057,6387
+Q3,Run2012B_SingleMu_4000.parquet,0.0096,2523
+Q4,Run2012B_SingleMu_4000.parquet,0.0076,4000
+Q5,Run2012B_SingleMu_4000.parquet,0.0312,100000
+Q6a,Run2012B_SingleMu_4000.parquet,0.0795,4000
+Q6b,Run2012B_SingleMu_4000.parquet,0.0065,1
+Q7,Run2012B_SingleMu_4000.parquet,0.6577,4000
+Q8,Run2012B_SingleMu_4000.parquet,0.1287,200000
