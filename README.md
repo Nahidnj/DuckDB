@@ -1,6 +1,6 @@
 # 🦆 Evaluating High-Energy Physics Data Queries Using DuckDB
 
-![High-Energy Physics Banner](https://via.placeholder.com/1200x400?text=High-Energy+Physics+Benchmarks+with+DuckDB)
+![High-Energy Physics Banner]((assets/banner.png))
 
 Welcome to the repository for **"Evaluating High-Energy Physics Data Queries Using DuckDB"**. This project benchmarks DuckDB's performance for high-energy physics queries inspired by the VLDB paper, [*"Evaluating Query Languages and Systems for High-Energy Physics Data"*](https://www.vldb.org/pvldb/vol15/p154-muller.pdf). Explore the power of DuckDB for local analytical workloads and learn how it compares to distributed systems.
 
